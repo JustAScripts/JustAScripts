@@ -14,13 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ---
 
-## 🚀 Getting Started
-1. Clone the repo
-2. Run the script
-3. Enjoy!
-
----
-
 ## 📄 License
 This project is licensed under the Lorem Ipsum License.
 
